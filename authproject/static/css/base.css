@@ -1,0 +1,41 @@
+body{
+  background-image: url("https://img.freepik.com/free-vector/vector-circle-tech-with-light-blue_43778-361.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Playball';
+  color:red;
+}
+h1{
+  color: #05f525;
+}
+.container{
+  background:black;
+}
+.jumbotron{
+   background-image: url("https://ak5.picdn.net/shutterstock/videos/10793555/thumb/1.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.log{
+  text-align: center;
+}
+p{
+  font-size: 20px;
+}
+#raj{
+  color: black;
+}
+#raju{
+  color:#1907e0;
+  text-shadow: 20px;
+  font-size: 50px;
+  font-style:italic;
+
+}
+#raju1{
+  color:red;
+}
+#raju2{
+  font-size: 40px;
+  color:white;
+}
